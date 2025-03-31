@@ -1,6 +1,8 @@
 # 广度优先搜索算法(Breadth First Search) BFS
 # 适用于无权图的最短路径问题
 # 适用于最小步数问题，如求解最短路径、最短距离、最短时间等
+# 适用于搜索问题，如迷宫、图形遍历等
+
 from collections import deque
 from typing import List, Tuple, Set
 import string
